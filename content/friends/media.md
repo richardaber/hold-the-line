@@ -15,4 +15,3 @@ The following is a list of reporters and how to contact them privately.
 > [!todo] TODO
 > 
 > Get some useful information about whistleblower protections.
-
